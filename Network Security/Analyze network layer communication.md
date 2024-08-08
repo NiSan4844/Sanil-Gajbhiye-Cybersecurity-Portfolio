@@ -9,7 +9,8 @@ You are a cybersecurity analyst working at a company that specializes in providi
 
 You are tasked with analyzing the situation and determining which network protocol was affected during this incident. To start, you visit the website and you also receive the error “destination port unreachable.” Next, you load your network analyzer tool, tcpdump, and load the webpage again. This time, you receive a lot of packets in your network analyzer. The analyzer shows that when you send UDP packets and receive an ICMP response returned to your host, the results contain an error message: “udp port 53 unreachable.” 
 
-Log image: (https://github.com/NiSan4844/Sanil-Gajbhiye-Cybersecurity-Portfolio/blob/9726240b9e4c79b611b30fb497d31ed3805acacc/Network%20Security/Network%20layer%20communication.png)
+![IMG](https://github.com/user-attachments/assets/fecb155e-00c7-46a3-9ecd-8fb983743feb)
+
 
 In the DNS and ICMP log, you find the following information:
 
