@@ -43,7 +43,8 @@ Context Diagram:
 Data Flow Diagram Level 0 or Context Diagram:
 In this case, I did not include level 1 and 2 as it might be way more complex. 
 
- !
+ ![IMG!](https://github.com/user-attachments/assets/2a3986a4-5633-4f44-b1e5-c981c4bc31a3)
+
 
 ### Threat Analysis
 * SQL Injection
@@ -60,7 +61,8 @@ In this case, I did not include level 1 and 2 as it might be way more complex.
 ### Attack Modelling
 Attack tree diagram: 
 
-!
+![IMG2](https://github.com/user-attachments/assets/b0f71312-c361-479c-8e91-758a63694be0)
+
 
 ### Risk Analysis and Impact 
 * SHA-256 Hashing
